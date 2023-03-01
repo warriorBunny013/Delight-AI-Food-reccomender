@@ -1,0 +1,11 @@
+/* tailwindcss utility classes */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind scrollbar;
+@font-face { 
+    font-family: Delightful; 
+    src: url('./Delightful400.otf');
+} 
+
+    
